@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/july_project/static/css/main.ab36b68e.chunk.css",
-    "main.js": "/july_project/static/js/main.c0fd6b82.chunk.js",
-    "main.js.map": "/july_project/static/js/main.c0fd6b82.chunk.js.map",
-    "runtime-main.js": "/july_project/static/js/runtime-main.d6146a1b.js",
-    "runtime-main.js.map": "/july_project/static/js/runtime-main.d6146a1b.js.map",
-    "static/js/2.27505fc1.chunk.js": "/july_project/static/js/2.27505fc1.chunk.js",
-    "static/js/2.27505fc1.chunk.js.map": "/july_project/static/js/2.27505fc1.chunk.js.map",
+    "main.js": "/july_project/static/js/main.60f26666.chunk.js",
+    "main.js.map": "/july_project/static/js/main.60f26666.chunk.js.map",
+    "runtime-main.js": "/july_project/static/js/runtime-main.d6c3e764.js",
+    "runtime-main.js.map": "/july_project/static/js/runtime-main.d6c3e764.js.map",
+    "static/js/2.ad696ca6.chunk.js": "/july_project/static/js/2.ad696ca6.chunk.js",
+    "static/js/2.ad696ca6.chunk.js.map": "/july_project/static/js/2.ad696ca6.chunk.js.map",
     "index.html": "/july_project/index.html",
-    "precache-manifest.d33eb94d08769ec62bf498d96327dfcb.js": "/july_project/precache-manifest.d33eb94d08769ec62bf498d96327dfcb.js",
+    "precache-manifest.079670b9767c8e4c54a5be8317f5901a.js": "/july_project/precache-manifest.079670b9767c8e4c54a5be8317f5901a.js",
     "service-worker.js": "/july_project/service-worker.js",
     "static/css/main.ab36b68e.chunk.css.map": "/july_project/static/css/main.ab36b68e.chunk.css.map",
-    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/july_project/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/js/2.ad696ca6.chunk.js.LICENSE.txt": "/july_project/static/js/2.ad696ca6.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/july_project/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/july_project/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/july_project/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -26,9 +26,9 @@
     "static/media/video-placeholder.jpg": "/july_project/static/media/video-placeholder.a622fc5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6146a1b.js",
-    "static/js/2.27505fc1.chunk.js",
+    "static/js/runtime-main.d6c3e764.js",
+    "static/js/2.ad696ca6.chunk.js",
     "static/css/main.ab36b68e.chunk.css",
-    "static/js/main.c0fd6b82.chunk.js"
+    "static/js/main.60f26666.chunk.js"
   ]
 }

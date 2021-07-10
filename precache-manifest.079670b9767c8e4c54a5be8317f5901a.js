@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12b0f648365be024b335f7631626fb8a",
+    "revision": "f3528a58395bda43da2a29b7db523094",
     "url": "/july_project/index.html"
   },
   {
-    "revision": "236ff8cf4eaa14373b14",
+    "revision": "359e4683ff886564e139",
     "url": "/july_project/static/css/main.ab36b68e.chunk.css"
   },
   {
-    "revision": "cb170ed7f435afc85587",
-    "url": "/july_project/static/js/2.27505fc1.chunk.js"
+    "revision": "56374576768928003045",
+    "url": "/july_project/static/js/2.ad696ca6.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/july_project/static/js/2.27505fc1.chunk.js.LICENSE.txt"
+    "url": "/july_project/static/js/2.ad696ca6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "236ff8cf4eaa14373b14",
-    "url": "/july_project/static/js/main.c0fd6b82.chunk.js"
+    "revision": "359e4683ff886564e139",
+    "url": "/july_project/static/js/main.60f26666.chunk.js"
   },
   {
-    "revision": "507751d1f65e01353829",
-    "url": "/july_project/static/js/runtime-main.d6146a1b.js"
+    "revision": "dfd7177856706b7abc87",
+    "url": "/july_project/static/js/runtime-main.d6c3e764.js"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
