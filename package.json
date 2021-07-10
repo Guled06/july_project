@@ -2,6 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Guled06/july_project"
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
@@ -14,11 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": ""
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
