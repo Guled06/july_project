@@ -18,7 +18,7 @@
     "url": "https://github.com/Guled06/july_project.git"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
